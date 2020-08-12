@@ -1,0 +1,13 @@
+**Me falta poner el formato**
+
+Tarea 1
+Proyecto
+Los Datos Abiertos del CERN (http://opendata.cern.ch), como tal son los datos del gran colisionador de hadórnes (LHC) y guias de como filtrar los datos en base de los modelos teóricos que se tienen. También está dividido por las diferentes colaboraciones que lo componen (ATLAS,ALICE,CMS,LHCb) ya que son laboratorios independientes.
+¿En dónde y cuándo se realizó ese proyecto?
+Como tal el proyecto inicio en los 70ta pero la colaboración en el 2009 empezó a obtener datos de colisiones para poder comparar resultados teóricos, los datos abiertos pro lo que pude encontrar fueron publicados desde el 2014 en varios formatos siendo independientes de las diferentes colaboraciones que lo componen.
+¿Qué proyecto con datos se te ocurre que podría implementarse en tu ciudad?
+Como tal creo yo que no es posible aún implementar estos datos en la el estado de Guanajuato.
+Otras fuentes de datos abiertos que me llamaron la atención para poder hacer un proyecto más tangible fueron:
+-DBpedia: datos abiertos de wikipedia.
+-FreeCodeCamp Open Data: (https://github.com/freeCodeCamp/open-data)
+-Kaggle: sub compañia de Google (https://www.kaggle.com/datasets)
